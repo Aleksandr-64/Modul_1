@@ -17,3 +17,12 @@ students[3]:a[3],
 students[4]:a[4],}
 print(list_)
 
+                     # Самое простое и умное решение
+# students = sorted(students)
+# print(students)
+# grades_a= []
+# for num in grades:
+#     s = sum(num)/len(num)
+#     grades_a.append(s)
+# dict1= dict(zip(students,grades_a))
+# print(dict1)
