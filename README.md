@@ -1,3 +1,4 @@
 # Modul_1
 ## Home work
-https://yandex.ru/images/search?img_url=https%3A%2F%2Fimages4.alphacoders.com%2F109%2F1096450.jpg&lr=194&pos=45&rpt=simage&source=serp&stype=image&text=Кибер%20картинки
+![1671662664_kalix-club-p-kiber-art-oboi-7](https://github.com/user-attachments/assets/8d860d9f-38ff-4590-b3d9-f27809a1f240)
+
